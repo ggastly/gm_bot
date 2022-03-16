@@ -95,7 +95,6 @@ def main():
 
     while True:
         try:
-            requests.get(CAT_URL)
             schedule.exec_jobs()
             time.sleep(SEC)
         except Exception as error:
