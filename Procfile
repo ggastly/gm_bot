@@ -1,0 +1,1 @@
+worker: python gm_bot.py
