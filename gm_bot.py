@@ -61,7 +61,7 @@ def send_cat(bot):
     try:
         logger.info('Началась отправка картинки')
         pic = get_new_image()
-        bot.send_photo(chat_id=FRIEND_ID, picture=pic)
+        bot.send_photo(chat_id=FRIEND_ID, photo=pic)
         logger.info('Картинка успешно отправлены!')
     except Exception as error:
         logger.exception(f'ошибка при отправке картинки: {error}')
