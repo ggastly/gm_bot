@@ -1,1 +1,600 @@
 2022-03-16 21:21:50,637 : ERROR : Îרטבךא ןנט חאןנמסו ך מסםמגםמלף API: name 'URL' is not defined : 46
+2022-03-17 12:31:14,359 : ERROR : Îרטבךא ןנט חאןנמסו ך מסםמגםמלף API: HTTPSConnectionPool(host='api.thecatapi.com', port=443): Max retries exceeded with url: /v1/images/search (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000014D90D9A100>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed')) : 51
+2022-03-17 12:32:00,792 : ERROR : Ñבמי ג ןנמדנאללו: 'NoneType' object is not callable : 101
+Traceback (most recent call last):
+  File "D:\Dev\gm_bot\gm_bot.py", line 98, in main
+    schedule.exec_jobs()
+  File "D:\Dev\gm_bot\venv\lib\site-packages\scheduler\core.py", line 333, in exec_jobs
+    return self.__exec_jobs(filtered_jobs, ref_dt)
+  File "D:\Dev\gm_bot\venv\lib\site-packages\scheduler\core.py", line 259, in __exec_jobs
+    job._exec()
+  File "D:\Dev\gm_bot\venv\lib\site-packages\scheduler\job.py", line 436, in _exec
+    self.__handle(*self.__args, **self.__kwargs)
+TypeError: 'NoneType' object is not callable
+2022-03-17 12:32:01,025 : ERROR : Ñבמי ג ןנמדנאללו: 'NoneType' object is not callable : 101
+Traceback (most recent call last):
+  File "D:\Dev\gm_bot\gm_bot.py", line 98, in main
+    schedule.exec_jobs()
+  File "D:\Dev\gm_bot\venv\lib\site-packages\scheduler\core.py", line 333, in exec_jobs
+    return self.__exec_jobs(filtered_jobs, ref_dt)
+  File "D:\Dev\gm_bot\venv\lib\site-packages\scheduler\core.py", line 259, in __exec_jobs
+    job._exec()
+  File "D:\Dev\gm_bot\venv\lib\site-packages\scheduler\job.py", line 436, in _exec
+    self.__handle(*self.__args, **self.__kwargs)
+TypeError: 'NoneType' object is not callable
+2022-03-17 12:32:01,165 : ERROR : Ñבמי ג ןנמדנאללו: 'NoneType' object is not callable : 101
+Traceback (most recent call last):
+  File "D:\Dev\gm_bot\gm_bot.py", line 98, in main
+    schedule.exec_jobs()
+  File "D:\Dev\gm_bot\venv\lib\site-packages\scheduler\core.py", line 333, in exec_jobs
+    return self.__exec_jobs(filtered_jobs, ref_dt)
+  File "D:\Dev\gm_bot\venv\lib\site-packages\scheduler\core.py", line 259, in __exec_jobs
+    job._exec()
+  File "D:\Dev\gm_bot\venv\lib\site-packages\scheduler\job.py", line 436, in _exec
+    self.__handle(*self.__args, **self.__kwargs)
+TypeError: 'NoneType' object is not callable
+2022-03-17 12:32:01,331 : ERROR : Ñבמי ג ןנמדנאללו: 'NoneType' object is not callable : 101
+Traceback (most recent call last):
+  File "D:\Dev\gm_bot\gm_bot.py", line 98, in main
+    schedule.exec_jobs()
+  File "D:\Dev\gm_bot\venv\lib\site-packages\scheduler\core.py", line 333, in exec_jobs
+    return self.__exec_jobs(filtered_jobs, ref_dt)
+  File "D:\Dev\gm_bot\venv\lib\site-packages\scheduler\core.py", line 259, in __exec_jobs
+    job._exec()
+  File "D:\Dev\gm_bot\venv\lib\site-packages\scheduler\job.py", line 436, in _exec
+    self.__handle(*self.__args, **self.__kwargs)
+TypeError: 'NoneType' object is not callable
+2022-03-17 12:32:01,496 : ERROR : Ñבמי ג ןנמדנאללו: 'NoneType' object is not callable : 101
+Traceback (most recent call last):
+  File "D:\Dev\gm_bot\gm_bot.py", line 98, in main
+    schedule.exec_jobs()
+  File "D:\Dev\gm_bot\venv\lib\site-packages\scheduler\core.py", line 333, in exec_jobs
+    return self.__exec_jobs(filtered_jobs, ref_dt)
+  File "D:\Dev\gm_bot\venv\lib\site-packages\scheduler\core.py", line 259, in __exec_jobs
+    job._exec()
+  File "D:\Dev\gm_bot\venv\lib\site-packages\scheduler\job.py", line 436, in _exec
+    self.__handle(*self.__args, **self.__kwargs)
+TypeError: 'NoneType' object is not callable
+2022-03-17 12:32:01,585 : ERROR : Ñבמי ג ןנמדנאללו: 'NoneType' object is not callable : 101
+Traceback (most recent call last):
+  File "D:\Dev\gm_bot\gm_bot.py", line 98, in main
+    schedule.exec_jobs()
+  File "D:\Dev\gm_bot\venv\lib\site-packages\scheduler\core.py", line 333, in exec_jobs
+    return self.__exec_jobs(filtered_jobs, ref_dt)
+  File "D:\Dev\gm_bot\venv\lib\site-packages\scheduler\core.py", line 259, in __exec_jobs
+    job._exec()
+  File "D:\Dev\gm_bot\venv\lib\site-packages\scheduler\job.py", line 436, in _exec
+    self.__handle(*self.__args, **self.__kwargs)
+TypeError: 'NoneType' object is not callable
+2022-03-17 12:32:01,669 : ERROR : Ñבמי ג ןנמדנאללו: 'NoneType' object is not callable : 101
+Traceback (most recent call last):
+  File "D:\Dev\gm_bot\gm_bot.py", line 98, in main
+    schedule.exec_jobs()
+  File "D:\Dev\gm_bot\venv\lib\site-packages\scheduler\core.py", line 333, in exec_jobs
+    return self.__exec_jobs(filtered_jobs, ref_dt)
+  File "D:\Dev\gm_bot\venv\lib\site-packages\scheduler\core.py", line 259, in __exec_jobs
+    job._exec()
+  File "D:\Dev\gm_bot\venv\lib\site-packages\scheduler\job.py", line 436, in _exec
+    self.__handle(*self.__args, **self.__kwargs)
+TypeError: 'NoneType' object is not callable
+2022-03-17 12:32:01,759 : ERROR : Ñבמי ג ןנמדנאללו: 'NoneType' object is not callable : 101
+Traceback (most recent call last):
+  File "D:\Dev\gm_bot\gm_bot.py", line 98, in main
+    schedule.exec_jobs()
+  File "D:\Dev\gm_bot\venv\lib\site-packages\scheduler\core.py", line 333, in exec_jobs
+    return self.__exec_jobs(filtered_jobs, ref_dt)
+  File "D:\Dev\gm_bot\venv\lib\site-packages\scheduler\core.py", line 259, in __exec_jobs
+    job._exec()
+  File "D:\Dev\gm_bot\venv\lib\site-packages\scheduler\job.py", line 436, in _exec
+    self.__handle(*self.__args, **self.__kwargs)
+TypeError: 'NoneType' object is not callable
+2022-03-17 12:32:01,856 : ERROR : Ñבמי ג ןנמדנאללו: 'NoneType' object is not callable : 101
+Traceback (most recent call last):
+  File "D:\Dev\gm_bot\gm_bot.py", line 98, in main
+    schedule.exec_jobs()
+  File "D:\Dev\gm_bot\venv\lib\site-packages\scheduler\core.py", line 333, in exec_jobs
+    return self.__exec_jobs(filtered_jobs, ref_dt)
+  File "D:\Dev\gm_bot\venv\lib\site-packages\scheduler\core.py", line 259, in __exec_jobs
+    job._exec()
+  File "D:\Dev\gm_bot\venv\lib\site-packages\scheduler\job.py", line 436, in _exec
+    self.__handle(*self.__args, **self.__kwargs)
+TypeError: 'NoneType' object is not callable
+2022-03-17 12:32:01,965 : ERROR : Ñבמי ג ןנמדנאללו: 'NoneType' object is not callable : 101
+Traceback (most recent call last):
+  File "D:\Dev\gm_bot\gm_bot.py", line 98, in main
+    schedule.exec_jobs()
+  File "D:\Dev\gm_bot\venv\lib\site-packages\scheduler\core.py", line 333, in exec_jobs
+    return self.__exec_jobs(filtered_jobs, ref_dt)
+  File "D:\Dev\gm_bot\venv\lib\site-packages\scheduler\core.py", line 259, in __exec_jobs
+    job._exec()
+  File "D:\Dev\gm_bot\venv\lib\site-packages\scheduler\job.py", line 436, in _exec
+    self.__handle(*self.__args, **self.__kwargs)
+TypeError: 'NoneType' object is not callable
+2022-03-17 12:32:02,066 : ERROR : Ñבמי ג ןנמדנאללו: 'NoneType' object is not callable : 101
+Traceback (most recent call last):
+  File "D:\Dev\gm_bot\gm_bot.py", line 98, in main
+    schedule.exec_jobs()
+  File "D:\Dev\gm_bot\venv\lib\site-packages\scheduler\core.py", line 333, in exec_jobs
+    return self.__exec_jobs(filtered_jobs, ref_dt)
+  File "D:\Dev\gm_bot\venv\lib\site-packages\scheduler\core.py", line 259, in __exec_jobs
+    job._exec()
+  File "D:\Dev\gm_bot\venv\lib\site-packages\scheduler\job.py", line 436, in _exec
+    self.__handle(*self.__args, **self.__kwargs)
+TypeError: 'NoneType' object is not callable
+2022-03-17 12:32:02,171 : ERROR : Ñבמי ג ןנמדנאללו: 'NoneType' object is not callable : 101
+Traceback (most recent call last):
+  File "D:\Dev\gm_bot\gm_bot.py", line 98, in main
+    schedule.exec_jobs()
+  File "D:\Dev\gm_bot\venv\lib\site-packages\scheduler\core.py", line 333, in exec_jobs
+    return self.__exec_jobs(filtered_jobs, ref_dt)
+  File "D:\Dev\gm_bot\venv\lib\site-packages\scheduler\core.py", line 259, in __exec_jobs
+    job._exec()
+  File "D:\Dev\gm_bot\venv\lib\site-packages\scheduler\job.py", line 436, in _exec
+    self.__handle(*self.__args, **self.__kwargs)
+TypeError: 'NoneType' object is not callable
+2022-03-17 12:32:02,339 : ERROR : Ñבמי ג ןנמדנאללו: 'NoneType' object is not callable : 101
+Traceback (most recent call last):
+  File "D:\Dev\gm_bot\gm_bot.py", line 98, in main
+    schedule.exec_jobs()
+  File "D:\Dev\gm_bot\venv\lib\site-packages\scheduler\core.py", line 333, in exec_jobs
+    return self.__exec_jobs(filtered_jobs, ref_dt)
+  File "D:\Dev\gm_bot\venv\lib\site-packages\scheduler\core.py", line 259, in __exec_jobs
+    job._exec()
+  File "D:\Dev\gm_bot\venv\lib\site-packages\scheduler\job.py", line 436, in _exec
+    self.__handle(*self.__args, **self.__kwargs)
+TypeError: 'NoneType' object is not callable
+2022-03-17 12:32:02,443 : ERROR : Ñבמי ג ןנמדנאללו: 'NoneType' object is not callable : 101
+Traceback (most recent call last):
+  File "D:\Dev\gm_bot\gm_bot.py", line 98, in main
+    schedule.exec_jobs()
+  File "D:\Dev\gm_bot\venv\lib\site-packages\scheduler\core.py", line 333, in exec_jobs
+    return self.__exec_jobs(filtered_jobs, ref_dt)
+  File "D:\Dev\gm_bot\venv\lib\site-packages\scheduler\core.py", line 259, in __exec_jobs
+    job._exec()
+  File "D:\Dev\gm_bot\venv\lib\site-packages\scheduler\job.py", line 436, in _exec
+    self.__handle(*self.__args, **self.__kwargs)
+TypeError: 'NoneType' object is not callable
+2022-03-17 12:32:02,531 : ERROR : Ñבמי ג ןנמדנאללו: 'NoneType' object is not callable : 101
+Traceback (most recent call last):
+  File "D:\Dev\gm_bot\gm_bot.py", line 98, in main
+    schedule.exec_jobs()
+  File "D:\Dev\gm_bot\venv\lib\site-packages\scheduler\core.py", line 333, in exec_jobs
+    return self.__exec_jobs(filtered_jobs, ref_dt)
+  File "D:\Dev\gm_bot\venv\lib\site-packages\scheduler\core.py", line 259, in __exec_jobs
+    job._exec()
+  File "D:\Dev\gm_bot\venv\lib\site-packages\scheduler\job.py", line 436, in _exec
+    self.__handle(*self.__args, **self.__kwargs)
+TypeError: 'NoneType' object is not callable
+2022-03-17 12:32:02,635 : ERROR : Ñבמי ג ןנמדנאללו: 'NoneType' object is not callable : 101
+Traceback (most recent call last):
+  File "D:\Dev\gm_bot\gm_bot.py", line 98, in main
+    schedule.exec_jobs()
+  File "D:\Dev\gm_bot\venv\lib\site-packages\scheduler\core.py", line 333, in exec_jobs
+    return self.__exec_jobs(filtered_jobs, ref_dt)
+  File "D:\Dev\gm_bot\venv\lib\site-packages\scheduler\core.py", line 259, in __exec_jobs
+    job._exec()
+  File "D:\Dev\gm_bot\venv\lib\site-packages\scheduler\job.py", line 436, in _exec
+    self.__handle(*self.__args, **self.__kwargs)
+TypeError: 'NoneType' object is not callable
+2022-03-17 12:32:02,730 : ERROR : Ñבמי ג ןנמדנאללו: 'NoneType' object is not callable : 101
+Traceback (most recent call last):
+  File "D:\Dev\gm_bot\gm_bot.py", line 98, in main
+    schedule.exec_jobs()
+  File "D:\Dev\gm_bot\venv\lib\site-packages\scheduler\core.py", line 333, in exec_jobs
+    return self.__exec_jobs(filtered_jobs, ref_dt)
+  File "D:\Dev\gm_bot\venv\lib\site-packages\scheduler\core.py", line 259, in __exec_jobs
+    job._exec()
+  File "D:\Dev\gm_bot\venv\lib\site-packages\scheduler\job.py", line 436, in _exec
+    self.__handle(*self.__args, **self.__kwargs)
+TypeError: 'NoneType' object is not callable
+2022-03-17 12:32:02,829 : ERROR : Ñבמי ג ןנמדנאללו: 'NoneType' object is not callable : 101
+Traceback (most recent call last):
+  File "D:\Dev\gm_bot\gm_bot.py", line 98, in main
+    schedule.exec_jobs()
+  File "D:\Dev\gm_bot\venv\lib\site-packages\scheduler\core.py", line 333, in exec_jobs
+    return self.__exec_jobs(filtered_jobs, ref_dt)
+  File "D:\Dev\gm_bot\venv\lib\site-packages\scheduler\core.py", line 259, in __exec_jobs
+    job._exec()
+  File "D:\Dev\gm_bot\venv\lib\site-packages\scheduler\job.py", line 436, in _exec
+    self.__handle(*self.__args, **self.__kwargs)
+TypeError: 'NoneType' object is not callable
+2022-03-17 12:32:02,905 : ERROR : Ñבמי ג ןנמדנאללו: 'NoneType' object is not callable : 101
+Traceback (most recent call last):
+  File "D:\Dev\gm_bot\gm_bot.py", line 98, in main
+    schedule.exec_jobs()
+  File "D:\Dev\gm_bot\venv\lib\site-packages\scheduler\core.py", line 333, in exec_jobs
+    return self.__exec_jobs(filtered_jobs, ref_dt)
+  File "D:\Dev\gm_bot\venv\lib\site-packages\scheduler\core.py", line 259, in __exec_jobs
+    job._exec()
+  File "D:\Dev\gm_bot\venv\lib\site-packages\scheduler\job.py", line 436, in _exec
+    self.__handle(*self.__args, **self.__kwargs)
+TypeError: 'NoneType' object is not callable
+2022-03-17 12:32:02,984 : ERROR : Ñבמי ג ןנמדנאללו: 'NoneType' object is not callable : 101
+Traceback (most recent call last):
+  File "D:\Dev\gm_bot\gm_bot.py", line 98, in main
+    schedule.exec_jobs()
+  File "D:\Dev\gm_bot\venv\lib\site-packages\scheduler\core.py", line 333, in exec_jobs
+    return self.__exec_jobs(filtered_jobs, ref_dt)
+  File "D:\Dev\gm_bot\venv\lib\site-packages\scheduler\core.py", line 259, in __exec_jobs
+    job._exec()
+  File "D:\Dev\gm_bot\venv\lib\site-packages\scheduler\job.py", line 436, in _exec
+    self.__handle(*self.__args, **self.__kwargs)
+TypeError: 'NoneType' object is not callable
+2022-03-17 12:32:03,172 : ERROR : Ñבמי ג ןנמדנאללו: 'NoneType' object is not callable : 101
+Traceback (most recent call last):
+  File "D:\Dev\gm_bot\gm_bot.py", line 98, in main
+    schedule.exec_jobs()
+  File "D:\Dev\gm_bot\venv\lib\site-packages\scheduler\core.py", line 333, in exec_jobs
+    return self.__exec_jobs(filtered_jobs, ref_dt)
+  File "D:\Dev\gm_bot\venv\lib\site-packages\scheduler\core.py", line 259, in __exec_jobs
+    job._exec()
+  File "D:\Dev\gm_bot\venv\lib\site-packages\scheduler\job.py", line 436, in _exec
+    self.__handle(*self.__args, **self.__kwargs)
+TypeError: 'NoneType' object is not callable
+2022-03-17 12:32:03,250 : ERROR : Ñבמי ג ןנמדנאללו: 'NoneType' object is not callable : 101
+Traceback (most recent call last):
+  File "D:\Dev\gm_bot\gm_bot.py", line 98, in main
+    schedule.exec_jobs()
+  File "D:\Dev\gm_bot\venv\lib\site-packages\scheduler\core.py", line 333, in exec_jobs
+    return self.__exec_jobs(filtered_jobs, ref_dt)
+  File "D:\Dev\gm_bot\venv\lib\site-packages\scheduler\core.py", line 259, in __exec_jobs
+    job._exec()
+  File "D:\Dev\gm_bot\venv\lib\site-packages\scheduler\job.py", line 436, in _exec
+    self.__handle(*self.__args, **self.__kwargs)
+TypeError: 'NoneType' object is not callable
+2022-03-17 12:32:03,325 : ERROR : Ñבמי ג ןנמדנאללו: 'NoneType' object is not callable : 101
+Traceback (most recent call last):
+  File "D:\Dev\gm_bot\gm_bot.py", line 98, in main
+    schedule.exec_jobs()
+  File "D:\Dev\gm_bot\venv\lib\site-packages\scheduler\core.py", line 333, in exec_jobs
+    return self.__exec_jobs(filtered_jobs, ref_dt)
+  File "D:\Dev\gm_bot\venv\lib\site-packages\scheduler\core.py", line 259, in __exec_jobs
+    job._exec()
+  File "D:\Dev\gm_bot\venv\lib\site-packages\scheduler\job.py", line 436, in _exec
+    self.__handle(*self.__args, **self.__kwargs)
+TypeError: 'NoneType' object is not callable
+2022-03-17 12:32:03,414 : ERROR : Ñבמי ג ןנמדנאללו: 'NoneType' object is not callable : 101
+Traceback (most recent call last):
+  File "D:\Dev\gm_bot\gm_bot.py", line 98, in main
+    schedule.exec_jobs()
+  File "D:\Dev\gm_bot\venv\lib\site-packages\scheduler\core.py", line 333, in exec_jobs
+    return self.__exec_jobs(filtered_jobs, ref_dt)
+  File "D:\Dev\gm_bot\venv\lib\site-packages\scheduler\core.py", line 259, in __exec_jobs
+    job._exec()
+  File "D:\Dev\gm_bot\venv\lib\site-packages\scheduler\job.py", line 436, in _exec
+    self.__handle(*self.__args, **self.__kwargs)
+TypeError: 'NoneType' object is not callable
+2022-03-17 12:32:03,514 : ERROR : Ñבמי ג ןנמדנאללו: 'NoneType' object is not callable : 101
+Traceback (most recent call last):
+  File "D:\Dev\gm_bot\gm_bot.py", line 98, in main
+    schedule.exec_jobs()
+  File "D:\Dev\gm_bot\venv\lib\site-packages\scheduler\core.py", line 333, in exec_jobs
+    return self.__exec_jobs(filtered_jobs, ref_dt)
+  File "D:\Dev\gm_bot\venv\lib\site-packages\scheduler\core.py", line 259, in __exec_jobs
+    job._exec()
+  File "D:\Dev\gm_bot\venv\lib\site-packages\scheduler\job.py", line 436, in _exec
+    self.__handle(*self.__args, **self.__kwargs)
+TypeError: 'NoneType' object is not callable
+2022-03-17 12:32:03,607 : ERROR : Ñבמי ג ןנמדנאללו: 'NoneType' object is not callable : 101
+Traceback (most recent call last):
+  File "D:\Dev\gm_bot\gm_bot.py", line 98, in main
+    schedule.exec_jobs()
+  File "D:\Dev\gm_bot\venv\lib\site-packages\scheduler\core.py", line 333, in exec_jobs
+    return self.__exec_jobs(filtered_jobs, ref_dt)
+  File "D:\Dev\gm_bot\venv\lib\site-packages\scheduler\core.py", line 259, in __exec_jobs
+    job._exec()
+  File "D:\Dev\gm_bot\venv\lib\site-packages\scheduler\job.py", line 436, in _exec
+    self.__handle(*self.__args, **self.__kwargs)
+TypeError: 'NoneType' object is not callable
+2022-03-17 12:32:03,692 : ERROR : Ñבמי ג ןנמדנאללו: 'NoneType' object is not callable : 101
+Traceback (most recent call last):
+  File "D:\Dev\gm_bot\gm_bot.py", line 98, in main
+    schedule.exec_jobs()
+  File "D:\Dev\gm_bot\venv\lib\site-packages\scheduler\core.py", line 333, in exec_jobs
+    return self.__exec_jobs(filtered_jobs, ref_dt)
+  File "D:\Dev\gm_bot\venv\lib\site-packages\scheduler\core.py", line 259, in __exec_jobs
+    job._exec()
+  File "D:\Dev\gm_bot\venv\lib\site-packages\scheduler\job.py", line 436, in _exec
+    self.__handle(*self.__args, **self.__kwargs)
+TypeError: 'NoneType' object is not callable
+2022-03-17 12:32:03,813 : ERROR : Ñבמי ג ןנמדנאללו: 'NoneType' object is not callable : 101
+Traceback (most recent call last):
+  File "D:\Dev\gm_bot\gm_bot.py", line 98, in main
+    schedule.exec_jobs()
+  File "D:\Dev\gm_bot\venv\lib\site-packages\scheduler\core.py", line 333, in exec_jobs
+    return self.__exec_jobs(filtered_jobs, ref_dt)
+  File "D:\Dev\gm_bot\venv\lib\site-packages\scheduler\core.py", line 259, in __exec_jobs
+    job._exec()
+  File "D:\Dev\gm_bot\venv\lib\site-packages\scheduler\job.py", line 436, in _exec
+    self.__handle(*self.__args, **self.__kwargs)
+TypeError: 'NoneType' object is not callable
+2022-03-17 12:32:03,970 : ERROR : Ñבמי ג ןנמדנאללו: 'NoneType' object is not callable : 101
+Traceback (most recent call last):
+  File "D:\Dev\gm_bot\gm_bot.py", line 98, in main
+    schedule.exec_jobs()
+  File "D:\Dev\gm_bot\venv\lib\site-packages\scheduler\core.py", line 333, in exec_jobs
+    return self.__exec_jobs(filtered_jobs, ref_dt)
+  File "D:\Dev\gm_bot\venv\lib\site-packages\scheduler\core.py", line 259, in __exec_jobs
+    job._exec()
+  File "D:\Dev\gm_bot\venv\lib\site-packages\scheduler\job.py", line 436, in _exec
+    self.__handle(*self.__args, **self.__kwargs)
+TypeError: 'NoneType' object is not callable
+2022-03-17 12:32:04,074 : ERROR : Ñבמי ג ןנמדנאללו: 'NoneType' object is not callable : 101
+Traceback (most recent call last):
+  File "D:\Dev\gm_bot\gm_bot.py", line 98, in main
+    schedule.exec_jobs()
+  File "D:\Dev\gm_bot\venv\lib\site-packages\scheduler\core.py", line 333, in exec_jobs
+    return self.__exec_jobs(filtered_jobs, ref_dt)
+  File "D:\Dev\gm_bot\venv\lib\site-packages\scheduler\core.py", line 259, in __exec_jobs
+    job._exec()
+  File "D:\Dev\gm_bot\venv\lib\site-packages\scheduler\job.py", line 436, in _exec
+    self.__handle(*self.__args, **self.__kwargs)
+TypeError: 'NoneType' object is not callable
+2022-03-17 12:32:04,188 : ERROR : Ñבמי ג ןנמדנאללו: 'NoneType' object is not callable : 101
+Traceback (most recent call last):
+  File "D:\Dev\gm_bot\gm_bot.py", line 98, in main
+    schedule.exec_jobs()
+  File "D:\Dev\gm_bot\venv\lib\site-packages\scheduler\core.py", line 333, in exec_jobs
+    return self.__exec_jobs(filtered_jobs, ref_dt)
+  File "D:\Dev\gm_bot\venv\lib\site-packages\scheduler\core.py", line 259, in __exec_jobs
+    job._exec()
+  File "D:\Dev\gm_bot\venv\lib\site-packages\scheduler\job.py", line 436, in _exec
+    self.__handle(*self.__args, **self.__kwargs)
+TypeError: 'NoneType' object is not callable
+2022-03-17 12:32:04,295 : ERROR : Ñבמי ג ןנמדנאללו: 'NoneType' object is not callable : 101
+Traceback (most recent call last):
+  File "D:\Dev\gm_bot\gm_bot.py", line 98, in main
+    schedule.exec_jobs()
+  File "D:\Dev\gm_bot\venv\lib\site-packages\scheduler\core.py", line 333, in exec_jobs
+    return self.__exec_jobs(filtered_jobs, ref_dt)
+  File "D:\Dev\gm_bot\venv\lib\site-packages\scheduler\core.py", line 259, in __exec_jobs
+    job._exec()
+  File "D:\Dev\gm_bot\venv\lib\site-packages\scheduler\job.py", line 436, in _exec
+    self.__handle(*self.__args, **self.__kwargs)
+TypeError: 'NoneType' object is not callable
+2022-03-17 12:32:04,420 : ERROR : Ñבמי ג ןנמדנאללו: 'NoneType' object is not callable : 101
+Traceback (most recent call last):
+  File "D:\Dev\gm_bot\gm_bot.py", line 98, in main
+    schedule.exec_jobs()
+  File "D:\Dev\gm_bot\venv\lib\site-packages\scheduler\core.py", line 333, in exec_jobs
+    return self.__exec_jobs(filtered_jobs, ref_dt)
+  File "D:\Dev\gm_bot\venv\lib\site-packages\scheduler\core.py", line 259, in __exec_jobs
+    job._exec()
+  File "D:\Dev\gm_bot\venv\lib\site-packages\scheduler\job.py", line 436, in _exec
+    self.__handle(*self.__args, **self.__kwargs)
+TypeError: 'NoneType' object is not callable
+2022-03-17 12:32:04,536 : ERROR : Ñבמי ג ןנמדנאללו: 'NoneType' object is not callable : 101
+Traceback (most recent call last):
+  File "D:\Dev\gm_bot\gm_bot.py", line 98, in main
+    schedule.exec_jobs()
+  File "D:\Dev\gm_bot\venv\lib\site-packages\scheduler\core.py", line 333, in exec_jobs
+    return self.__exec_jobs(filtered_jobs, ref_dt)
+  File "D:\Dev\gm_bot\venv\lib\site-packages\scheduler\core.py", line 259, in __exec_jobs
+    job._exec()
+  File "D:\Dev\gm_bot\venv\lib\site-packages\scheduler\job.py", line 436, in _exec
+    self.__handle(*self.__args, **self.__kwargs)
+TypeError: 'NoneType' object is not callable
+2022-03-17 12:32:04,657 : ERROR : Ñבמי ג ןנמדנאללו: 'NoneType' object is not callable : 101
+Traceback (most recent call last):
+  File "D:\Dev\gm_bot\gm_bot.py", line 98, in main
+    schedule.exec_jobs()
+  File "D:\Dev\gm_bot\venv\lib\site-packages\scheduler\core.py", line 333, in exec_jobs
+    return self.__exec_jobs(filtered_jobs, ref_dt)
+  File "D:\Dev\gm_bot\venv\lib\site-packages\scheduler\core.py", line 259, in __exec_jobs
+    job._exec()
+  File "D:\Dev\gm_bot\venv\lib\site-packages\scheduler\job.py", line 436, in _exec
+    self.__handle(*self.__args, **self.__kwargs)
+TypeError: 'NoneType' object is not callable
+2022-03-17 12:32:04,805 : ERROR : Ñבמי ג ןנמדנאללו: 'NoneType' object is not callable : 101
+Traceback (most recent call last):
+  File "D:\Dev\gm_bot\gm_bot.py", line 98, in main
+    schedule.exec_jobs()
+  File "D:\Dev\gm_bot\venv\lib\site-packages\scheduler\core.py", line 333, in exec_jobs
+    return self.__exec_jobs(filtered_jobs, ref_dt)
+  File "D:\Dev\gm_bot\venv\lib\site-packages\scheduler\core.py", line 259, in __exec_jobs
+    job._exec()
+  File "D:\Dev\gm_bot\venv\lib\site-packages\scheduler\job.py", line 436, in _exec
+    self.__handle(*self.__args, **self.__kwargs)
+TypeError: 'NoneType' object is not callable
+2022-03-17 12:32:05,017 : ERROR : Ñבמי ג ןנמדנאללו: 'NoneType' object is not callable : 101
+Traceback (most recent call last):
+  File "D:\Dev\gm_bot\gm_bot.py", line 98, in main
+    schedule.exec_jobs()
+  File "D:\Dev\gm_bot\venv\lib\site-packages\scheduler\core.py", line 333, in exec_jobs
+    return self.__exec_jobs(filtered_jobs, ref_dt)
+  File "D:\Dev\gm_bot\venv\lib\site-packages\scheduler\core.py", line 259, in __exec_jobs
+    job._exec()
+  File "D:\Dev\gm_bot\venv\lib\site-packages\scheduler\job.py", line 436, in _exec
+    self.__handle(*self.__args, **self.__kwargs)
+TypeError: 'NoneType' object is not callable
+2022-03-17 12:32:05,241 : ERROR : Ñבמי ג ןנמדנאללו: 'NoneType' object is not callable : 101
+Traceback (most recent call last):
+  File "D:\Dev\gm_bot\gm_bot.py", line 98, in main
+    schedule.exec_jobs()
+  File "D:\Dev\gm_bot\venv\lib\site-packages\scheduler\core.py", line 333, in exec_jobs
+    return self.__exec_jobs(filtered_jobs, ref_dt)
+  File "D:\Dev\gm_bot\venv\lib\site-packages\scheduler\core.py", line 259, in __exec_jobs
+    job._exec()
+  File "D:\Dev\gm_bot\venv\lib\site-packages\scheduler\job.py", line 436, in _exec
+    self.__handle(*self.__args, **self.__kwargs)
+TypeError: 'NoneType' object is not callable
+2022-03-17 12:32:05,453 : ERROR : Ñבמי ג ןנמדנאללו: 'NoneType' object is not callable : 101
+Traceback (most recent call last):
+  File "D:\Dev\gm_bot\gm_bot.py", line 98, in main
+    schedule.exec_jobs()
+  File "D:\Dev\gm_bot\venv\lib\site-packages\scheduler\core.py", line 333, in exec_jobs
+    return self.__exec_jobs(filtered_jobs, ref_dt)
+  File "D:\Dev\gm_bot\venv\lib\site-packages\scheduler\core.py", line 259, in __exec_jobs
+    job._exec()
+  File "D:\Dev\gm_bot\venv\lib\site-packages\scheduler\job.py", line 436, in _exec
+    self.__handle(*self.__args, **self.__kwargs)
+TypeError: 'NoneType' object is not callable
+2022-03-17 12:32:05,630 : ERROR : Ñבמי ג ןנמדנאללו: 'NoneType' object is not callable : 101
+Traceback (most recent call last):
+  File "D:\Dev\gm_bot\gm_bot.py", line 98, in main
+    schedule.exec_jobs()
+  File "D:\Dev\gm_bot\venv\lib\site-packages\scheduler\core.py", line 333, in exec_jobs
+    return self.__exec_jobs(filtered_jobs, ref_dt)
+  File "D:\Dev\gm_bot\venv\lib\site-packages\scheduler\core.py", line 259, in __exec_jobs
+    job._exec()
+  File "D:\Dev\gm_bot\venv\lib\site-packages\scheduler\job.py", line 436, in _exec
+    self.__handle(*self.__args, **self.__kwargs)
+TypeError: 'NoneType' object is not callable
+2022-03-17 12:32:05,780 : ERROR : Ñבמי ג ןנמדנאללו: 'NoneType' object is not callable : 101
+Traceback (most recent call last):
+  File "D:\Dev\gm_bot\gm_bot.py", line 98, in main
+    schedule.exec_jobs()
+  File "D:\Dev\gm_bot\venv\lib\site-packages\scheduler\core.py", line 333, in exec_jobs
+    return self.__exec_jobs(filtered_jobs, ref_dt)
+  File "D:\Dev\gm_bot\venv\lib\site-packages\scheduler\core.py", line 259, in __exec_jobs
+    job._exec()
+  File "D:\Dev\gm_bot\venv\lib\site-packages\scheduler\job.py", line 436, in _exec
+    self.__handle(*self.__args, **self.__kwargs)
+TypeError: 'NoneType' object is not callable
+2022-03-17 12:32:05,915 : ERROR : Ñבמי ג ןנמדנאללו: 'NoneType' object is not callable : 101
+Traceback (most recent call last):
+  File "D:\Dev\gm_bot\gm_bot.py", line 98, in main
+    schedule.exec_jobs()
+  File "D:\Dev\gm_bot\venv\lib\site-packages\scheduler\core.py", line 333, in exec_jobs
+    return self.__exec_jobs(filtered_jobs, ref_dt)
+  File "D:\Dev\gm_bot\venv\lib\site-packages\scheduler\core.py", line 259, in __exec_jobs
+    job._exec()
+  File "D:\Dev\gm_bot\venv\lib\site-packages\scheduler\job.py", line 436, in _exec
+    self.__handle(*self.__args, **self.__kwargs)
+TypeError: 'NoneType' object is not callable
+2022-03-17 12:32:06,101 : ERROR : Ñבמי ג ןנמדנאללו: 'NoneType' object is not callable : 101
+Traceback (most recent call last):
+  File "D:\Dev\gm_bot\gm_bot.py", line 98, in main
+    schedule.exec_jobs()
+  File "D:\Dev\gm_bot\venv\lib\site-packages\scheduler\core.py", line 333, in exec_jobs
+    return self.__exec_jobs(filtered_jobs, ref_dt)
+  File "D:\Dev\gm_bot\venv\lib\site-packages\scheduler\core.py", line 259, in __exec_jobs
+    job._exec()
+  File "D:\Dev\gm_bot\venv\lib\site-packages\scheduler\job.py", line 436, in _exec
+    self.__handle(*self.__args, **self.__kwargs)
+TypeError: 'NoneType' object is not callable
+2022-03-17 12:32:06,223 : ERROR : Ñבמי ג ןנמדנאללו: 'NoneType' object is not callable : 101
+Traceback (most recent call last):
+  File "D:\Dev\gm_bot\gm_bot.py", line 98, in main
+    schedule.exec_jobs()
+  File "D:\Dev\gm_bot\venv\lib\site-packages\scheduler\core.py", line 333, in exec_jobs
+    return self.__exec_jobs(filtered_jobs, ref_dt)
+  File "D:\Dev\gm_bot\venv\lib\site-packages\scheduler\core.py", line 259, in __exec_jobs
+    job._exec()
+  File "D:\Dev\gm_bot\venv\lib\site-packages\scheduler\job.py", line 436, in _exec
+    self.__handle(*self.__args, **self.__kwargs)
+TypeError: 'NoneType' object is not callable
+2022-03-17 12:32:06,373 : ERROR : Ñבמי ג ןנמדנאללו: 'NoneType' object is not callable : 101
+Traceback (most recent call last):
+  File "D:\Dev\gm_bot\gm_bot.py", line 98, in main
+    schedule.exec_jobs()
+  File "D:\Dev\gm_bot\venv\lib\site-packages\scheduler\core.py", line 333, in exec_jobs
+    return self.__exec_jobs(filtered_jobs, ref_dt)
+  File "D:\Dev\gm_bot\venv\lib\site-packages\scheduler\core.py", line 259, in __exec_jobs
+    job._exec()
+  File "D:\Dev\gm_bot\venv\lib\site-packages\scheduler\job.py", line 436, in _exec
+    self.__handle(*self.__args, **self.__kwargs)
+TypeError: 'NoneType' object is not callable
+2022-03-17 12:32:06,454 : ERROR : Ñבמי ג ןנמדנאללו: 'NoneType' object is not callable : 101
+Traceback (most recent call last):
+  File "D:\Dev\gm_bot\gm_bot.py", line 98, in main
+    schedule.exec_jobs()
+  File "D:\Dev\gm_bot\venv\lib\site-packages\scheduler\core.py", line 333, in exec_jobs
+    return self.__exec_jobs(filtered_jobs, ref_dt)
+  File "D:\Dev\gm_bot\venv\lib\site-packages\scheduler\core.py", line 259, in __exec_jobs
+    job._exec()
+  File "D:\Dev\gm_bot\venv\lib\site-packages\scheduler\job.py", line 436, in _exec
+    self.__handle(*self.__args, **self.__kwargs)
+TypeError: 'NoneType' object is not callable
+2022-03-17 12:32:06,527 : ERROR : Ñבמי ג ןנמדנאללו: 'NoneType' object is not callable : 101
+Traceback (most recent call last):
+  File "D:\Dev\gm_bot\gm_bot.py", line 98, in main
+    schedule.exec_jobs()
+  File "D:\Dev\gm_bot\venv\lib\site-packages\scheduler\core.py", line 333, in exec_jobs
+    return self.__exec_jobs(filtered_jobs, ref_dt)
+  File "D:\Dev\gm_bot\venv\lib\site-packages\scheduler\core.py", line 259, in __exec_jobs
+    job._exec()
+  File "D:\Dev\gm_bot\venv\lib\site-packages\scheduler\job.py", line 436, in _exec
+    self.__handle(*self.__args, **self.__kwargs)
+TypeError: 'NoneType' object is not callable
+2022-03-17 12:32:06,615 : ERROR : Ñבמי ג ןנמדנאללו: 'NoneType' object is not callable : 101
+Traceback (most recent call last):
+  File "D:\Dev\gm_bot\gm_bot.py", line 98, in main
+    schedule.exec_jobs()
+  File "D:\Dev\gm_bot\venv\lib\site-packages\scheduler\core.py", line 333, in exec_jobs
+    return self.__exec_jobs(filtered_jobs, ref_dt)
+  File "D:\Dev\gm_bot\venv\lib\site-packages\scheduler\core.py", line 259, in __exec_jobs
+    job._exec()
+  File "D:\Dev\gm_bot\venv\lib\site-packages\scheduler\job.py", line 436, in _exec
+    self.__handle(*self.__args, **self.__kwargs)
+TypeError: 'NoneType' object is not callable
+2022-03-17 12:32:06,697 : ERROR : Ñבמי ג ןנמדנאללו: 'NoneType' object is not callable : 101
+Traceback (most recent call last):
+  File "D:\Dev\gm_bot\gm_bot.py", line 98, in main
+    schedule.exec_jobs()
+  File "D:\Dev\gm_bot\venv\lib\site-packages\scheduler\core.py", line 333, in exec_jobs
+    return self.__exec_jobs(filtered_jobs, ref_dt)
+  File "D:\Dev\gm_bot\venv\lib\site-packages\scheduler\core.py", line 259, in __exec_jobs
+    job._exec()
+  File "D:\Dev\gm_bot\venv\lib\site-packages\scheduler\job.py", line 436, in _exec
+    self.__handle(*self.__args, **self.__kwargs)
+TypeError: 'NoneType' object is not callable
+2022-03-17 12:32:06,788 : ERROR : Ñבמי ג ןנמדנאללו: 'NoneType' object is not callable : 101
+Traceback (most recent call last):
+  File "D:\Dev\gm_bot\gm_bot.py", line 98, in main
+    schedule.exec_jobs()
+  File "D:\Dev\gm_bot\venv\lib\site-packages\scheduler\core.py", line 333, in exec_jobs
+    return self.__exec_jobs(filtered_jobs, ref_dt)
+  File "D:\Dev\gm_bot\venv\lib\site-packages\scheduler\core.py", line 259, in __exec_jobs
+    job._exec()
+  File "D:\Dev\gm_bot\venv\lib\site-packages\scheduler\job.py", line 436, in _exec
+    self.__handle(*self.__args, **self.__kwargs)
+TypeError: 'NoneType' object is not callable
+2022-03-17 12:32:06,877 : ERROR : Ñבמי ג ןנמדנאללו: 'NoneType' object is not callable : 101
+Traceback (most recent call last):
+  File "D:\Dev\gm_bot\gm_bot.py", line 98, in main
+    schedule.exec_jobs()
+  File "D:\Dev\gm_bot\venv\lib\site-packages\scheduler\core.py", line 333, in exec_jobs
+    return self.__exec_jobs(filtered_jobs, ref_dt)
+  File "D:\Dev\gm_bot\venv\lib\site-packages\scheduler\core.py", line 259, in __exec_jobs
+    job._exec()
+  File "D:\Dev\gm_bot\venv\lib\site-packages\scheduler\job.py", line 436, in _exec
+    self.__handle(*self.__args, **self.__kwargs)
+TypeError: 'NoneType' object is not callable
+2022-03-17 12:32:06,962 : ERROR : Ñבמי ג ןנמדנאללו: 'NoneType' object is not callable : 101
+Traceback (most recent call last):
+  File "D:\Dev\gm_bot\gm_bot.py", line 98, in main
+    schedule.exec_jobs()
+  File "D:\Dev\gm_bot\venv\lib\site-packages\scheduler\core.py", line 333, in exec_jobs
+    return self.__exec_jobs(filtered_jobs, ref_dt)
+  File "D:\Dev\gm_bot\venv\lib\site-packages\scheduler\core.py", line 259, in __exec_jobs
+    job._exec()
+  File "D:\Dev\gm_bot\venv\lib\site-packages\scheduler\job.py", line 436, in _exec
+    self.__handle(*self.__args, **self.__kwargs)
+TypeError: 'NoneType' object is not callable
+2022-03-18 01:29:19,325 : ERROR : מרטבךא ןנט מעןנאגךו סממבשוםטÿ: Client has not been started yet : 43
+Traceback (most recent call last):
+  File "D:\Dev\gm_bot\gm_bot.py", line 36, in send_message
+    bot.send_message(
+  File "D:\Dev\gm_bot\venv\lib\site-packages\pyrogram\sync.py", line 66, in async_to_sync_wrap
+    return loop.run_until_complete(coroutine)
+  File "D:\PROGRAM_STUFF\python\lib\asyncio\base_events.py", line 642, in run_until_complete
+    return future.result()
+  File "D:\Dev\gm_bot\venv\lib\site-packages\pyrogram\methods\messages\send_message.py", line 130, in send_message
+    peer=await self.resolve_peer(chat_id),
+  File "D:\Dev\gm_bot\venv\lib\site-packages\pyrogram\methods\advanced\resolve_peer.py", line 57, in resolve_peer
+    raise ConnectionError("Client has not been started yet")
+ConnectionError: Client has not been started yet
+2022-03-18 01:29:19,916 : ERROR : מרטבךא ןנט מעןנאגךו ךאנעטםךט: Client has not been started yet : 67
+Traceback (most recent call last):
+  File "D:\Dev\gm_bot\gm_bot.py", line 64, in send_cat
+    bot.send_photo(chat_id='me', photo=pic)
+  File "D:\Dev\gm_bot\venv\lib\site-packages\pyrogram\sync.py", line 66, in async_to_sync_wrap
+    return loop.run_until_complete(coroutine)
+  File "D:\PROGRAM_STUFF\python\lib\asyncio\base_events.py", line 642, in run_until_complete
+    return future.result()
+  File "D:\Dev\gm_bot\venv\lib\site-packages\pyrogram\methods\messages\send_photo.py", line 173, in send_photo
+    peer=await self.resolve_peer(chat_id),
+  File "D:\Dev\gm_bot\venv\lib\site-packages\pyrogram\methods\advanced\resolve_peer.py", line 57, in resolve_peer
+    raise ConnectionError("Client has not been started yet")
+ConnectionError: Client has not been started yet

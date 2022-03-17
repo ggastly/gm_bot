@@ -39,8 +39,8 @@ def send_message(bot):
                 )
             time.sleep(SEC_2)
         logger.info('Сообщении успешно отправлены!')
-    except Exception as error:
-        logger.exception(f'ошибка при отправке сообщения: {error}')
+    except Exception:
+        logger.exception('ошибка при отправке сообщения')
 
 
 def get_new_image():
@@ -63,8 +63,8 @@ def send_cat(bot):
         pic = get_new_image()
         bot.send_photo(chat_id=FRIEND_ID, photo=pic)
         logger.info('Картинка успешно отправлены!')
-    except Exception as error:
-        logger.exception(f'ошибка при отправке картинки: {error}')
+    except Exception:
+        logger.exception('ошибка при отправке картинки')
 
 
 def job(bot):
@@ -91,18 +91,25 @@ def main():
     bot.start()
     schedule = Scheduler(tzinfo=dt.timezone.utc)
     tz_samara = dt.timezone(dt.timedelta(hours=4))
-    schedule.daily(dt.time(hour=8, minute=00, tzinfo=tz_samara), job(bot))
+    schedule.daily(
+        dt.time(
+            hour=8,
+            minute=00,
+            tzinfo=tz_samara),
+        lambda: job(bot)
+        )
 
     while True:
         try:
             schedule.exec_jobs()
             time.sleep(SEC)
-        except Exception as error:
-            logger.exception(f'Сбой в программе: {error}')
+        except Exception:
+            logger.exception('Сбой в программе')
             bot.send_message(
                 'me',
-                'Сбой в программе gm: {error}'
+                'Сбой в программе gm'
                 )
+            sys.exit()
 
 
 if __name__ == '__main__':
